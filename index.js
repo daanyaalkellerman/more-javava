@@ -130,6 +130,7 @@ function createPerson(firstName, lastName, age){
        
 //     }
 //     return myObjeje
+
 //you dont need the [new] keyword
 
 let person4 =createPerson('danny','idk',32)
@@ -150,3 +151,4 @@ function carDescription(brand,year,model,colour){
 }
 
 let car1= new carDescription('porsche','GT3',2013,'white')
+
